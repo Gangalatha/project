@@ -1,6 +1,7 @@
 package cgginterns.hibernate;
 
 import javax.persistence.Entity;
+
 import javax.persistence.Id;
 
 @Entity

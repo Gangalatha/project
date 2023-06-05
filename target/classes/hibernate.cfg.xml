@@ -40,9 +40,11 @@
 						
 			<mapping class="cggmaps.Answer"/>-->
 		
-			<mapping class="cggmaps.Question2"/>
+			<!--<mapping class="cggmaps.Question2"/>
 						
-			<mapping class="cggmaps.Answer2"/>
+			<mapping class="cggmaps.Answer2"/> -->
+			
+			
 	
 			
 
